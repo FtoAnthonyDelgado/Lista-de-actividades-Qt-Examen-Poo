@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icono">recursos/lista-de-verificacion.png</file>
+    </qresource>
+</RCC>
